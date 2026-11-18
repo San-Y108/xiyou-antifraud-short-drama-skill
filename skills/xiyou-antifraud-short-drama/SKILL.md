@@ -3,7 +3,7 @@ name: xiyou-antifraud-short-drama
 description: 制作或修订基于真实诈骗案例的西游反诈竖屏短剧／漫剧，覆盖案例核验、剧本技能安装、剧本审核、Image人物与关键帧、即梦视频、中文聊天窗与成片验收。适用于换一种诈骗类型并复用55秒以内、国风少年漫、快节奏紧接对白的制作流程。
 license: MIT
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # 西游反诈竖屏短剧

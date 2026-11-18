@@ -64,7 +64,7 @@ def inspect(dest, lock):
 
 def download_archive(lock):
     url = 'https://codeload.github.com/' + lock['repository'] + '/zip/' + lock['ref']
-    request = urllib.request.Request(url, headers={'User-Agent': 'xiyou-antifraud-skill/1.0'})
+    request = urllib.request.Request(url, headers={'User-Agent': 'xiyou-antifraud-skill/1.0.1'})
     data = bytearray()
     with urllib.request.urlopen(request, timeout=30) as response:
         while True:
