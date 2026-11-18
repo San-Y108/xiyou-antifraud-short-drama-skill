@@ -1,4 +1,4 @@
 interface:
-  display_name: "西游反诈竖屏短剧"
-  short_description: "用真实诈骗案例制作西游竖屏短剧，强制剧本技能、紧凑对白与分阶段审核"
-  default_prompt: "使用 $xiyou-antifraud-short-drama，把冒充熟人借钱的真实案例改编为55秒以内的西游反诈竖屏短剧，先检查并安装所需剧本技能，再交剧本给我审核。"
+  display_name: "西游反诈全自动短剧"
+  short_description: "只给诈骗类型即可全流程制作，必需技能自动补齐，AI审稿选片直到交付竖屏成片"
+  default_prompt: "使用 $xiyou-antifraud-short-drama，诈骗类型：冒充熟人借钱。按默认全自动方案制作到最终MP4，自行审稿、选片和返工，不逐阶段等我确认。"
