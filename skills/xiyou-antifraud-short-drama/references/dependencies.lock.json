@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "repository": "zenstory-ai/drama-skills",
+  "ref": "37232f6d22e174c36e321d2e3a1a3ae871e7d602",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "short-drama-write",
+      "path": "skills/short-drama-write"
+    },
+    {
+      "name": "short-drama-storyboard",
+      "path": "skills/short-drama-storyboard"
+    },
+    {
+      "name": "short-drama-review",
+      "path": "skills/short-drama-review"
+    }
+  ]
+}
